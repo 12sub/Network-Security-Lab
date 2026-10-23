@@ -125,6 +125,9 @@ MagicDNS must be enabled in the Tailscale admin console for the name to resolve.
 | `vagrant destroy -f` | Delete the VM entirely |
 | `vagrant port` | Show active port forwards |
 
+## Result of the Setup
+![Curl test showing Nginx proxying port 8080](images/result.png)
+
 ## Security notes
 
 - Port forwards bind to `127.0.0.1` only.
@@ -164,4 +167,4 @@ MagicDNS must be enabled in the Tailscale admin console for the name to resolve.
 
 ## License
 
-Add a license of your choice (for example MIT).
+MIT License.
