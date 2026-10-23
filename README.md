@@ -1,5 +1,9 @@
 # NetSec Lab: Automated Reverse Proxy and SSH Lab
 
+## Project Demo
+
+[![Project Demo](https://img.youtube.com/vi/DjBdK8Pai9U/maxresdefault.jpg)](https://www.youtube.com/watch?v=DjBdK8Pai9U)
+
 A small network security lab built with **VirtualBox**, **Vagrant**, **Debian 12**, **Nginx**, and **Tailscale**, driven from a Windows host. A single `vagrant up` builds a Debian VM that runs a reverse proxy and accepts key-based SSH logins, with no manual VM setup.
 
 ## Goals
